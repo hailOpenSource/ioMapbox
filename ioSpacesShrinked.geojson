@@ -1,0 +1,181 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dolmen Mall, Clifton",
+        "icon": "music",
+        "mediaFormat": "Skyscraper",
+        "description": "<a href='https://www.ishtihar.online/product-page/dolmen-mall'>Dolmen Mall</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.029044,
+          24.80249
+        ],
+        "type": "Point"
+      },
+      "id": "20d465db8adc2616d66c871481686558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dolmen Tower, Clifton",
+        "icon": "music",
+        "mediaFormat": "Skyscraper",
+        "description": "<a href='https://www.ishtihar.online/product-page/dolmen-tower'>Dolmen Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          67.031199,
+          24.801961
+        ],
+        "type": "Point"
+      },
+      "id": "2cbb52903cdeebd219e96a510906dd04"
+    },
+
+
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saddar Road",
+        "icon": "bicycle",
+        "mediaFormat": "Digital Billboard",
+        "description": "<a href='https://www.ishtihar.online/product-page/saddar-peshawar' target='_blank' title='Opens in a new window'>Saddar</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          71.556313,
+          34.006857
+        ],
+        "type": "Point"
+      },
+      "id": "077ebbd4faee8605d0df726a8eed7adb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FDA City",
+        "icon": "bicycle",
+        "mediaFormat": "Digital Billboard",
+        "description": "<a href='https://www.ishtihar.online/product-page/fda-city-faisalabad' target='_blank' title='Opens in a new window'>FDA City</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.08239,
+          31.520573
+        ],
+        "type": "Point"
+      },
+      "id": "09bc2c68e6622eadd69f8f94ed278ce8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Askari Tower-II",
+        "icon": "bar",
+        "mediaFormat": "Building",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          73.172015,
+          33.541417
+        ],
+        "type": "Point"
+      },
+      "id": "07800908d7b7d425d0182813408b92ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Askari-X",
+        "icon": "bar",
+        "mediaFormat": "Building",
+        "description": "<a href='https://www.ishtihar.online/product-page/askari-x'>Askari-X</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          74.421818,
+          31.528263
+        ],
+        "type": "Point"
+      },
+      "id": "5a9bfd029951f87b3c7f7108a1eb17e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lignum Tower",
+        "icon": "bar",
+        "mediaFormat": "Building",
+        "description": "<a href='https://www.ishtihar.online/product-page/lignum-tower'>Lignum Tower</a>"
+      },
+      "geometry": {
+        "coordinates": [
+          73.148139,
+          33.524172
+        ],
+        "type": "Point"
+      },
+      "id": "a5ec52c32f2a3246eaebc46384775bb5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Askari Tower-I",
+        "icon": "bar",
+        "mediaFormat": "Building",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          73.170806,
+          33.557917
+        ],
+        "type": "Point"
+      },
+      "id": "f8216d450988ce55666b48b5ade83b5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ferozepur Road, Lahore",
+        "icon": "theatre",
+        "mediaFormat": "Billboard"
+      },
+      "geometry": {
+        "coordinates": [
+          74.344879,
+          31.472213
+        ],
+        "type": "Point"
+      },
+      "id": "7cb8e542417cf3cf8c22bae53474e65e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pak Arab Housing Society Lahore, Ferozepur Road, Lahore",
+        "icon": "theatre",
+        "mediaFormat": "Billboard"
+      },
+      "geometry": {
+        "coordinates": [
+          74.35628,
+          31.432406
+        ],
+        "type": "Point"
+      },
+      "id": "a91198239933dec7a01d4dfd78152288"
+    }
+  ],
+  "type": "FeatureCollection"
+}
